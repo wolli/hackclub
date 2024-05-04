@@ -1,5 +1,5 @@
 ---
-name: 'Personal Website'
+name: 'Wollis Website'
 description: 'Make your first website from scratch'
 author: '@MaxWofford'
 locales: 'es-xl, pt-br'
